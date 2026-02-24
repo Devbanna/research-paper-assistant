@@ -37,7 +37,7 @@ Follow these steps to set up the Research Assistant on your local machine.
 - **Conda** or **venv** for environment management
 
 ### 2️⃣ Clone & Setup Environment
-    ```bash
+    
     # Clone the repository
     git clone [https://github.com/Devbanna/research-paper-assistant.git](https://github.com/Devbanna/research-paper-assistant.git)
     cd research-paper-assistant
