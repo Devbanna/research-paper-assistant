@@ -1,10 +1,8 @@
 # 🤖 Research-Genius: RAG-Powered Academic Assistant
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-link.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://research-paper-assistant-ikhawhapomdhypk5bxnmrx.streamlit.app/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
 Research-Genius is a sophisticated **Retrieval-Augmented Generation (RAG)** system designed to automate the literature review process. By combining **Vector Embeddings** with **Transformer-based LLMs**, it allows researchers to converse with dense academic papers to extract grounded, non-hallucinated insights.
-
-
 
 ---
 
@@ -42,7 +40,7 @@ Follow these steps to set up the Research Assistant on your local machine.
 
 ### 3  Clone & Setup Environment:
     
-    git clone [https://github.com/Devbanna/research-paper-assistant.git](https://github.com/Devbanna/research-paper-assistant.git)
+    git clone https://github.com/Devbanna/research-paper-assistant.git
     cd research-paper-assistant
 
 ### 4   Run the Dashboard:
