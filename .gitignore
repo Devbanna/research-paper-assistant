@@ -1,0 +1,33 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac System Files
+.DS_Store
+
+# Streamlit local state
+.streamlit/
+
+# Large Model Data (prevent pushing heavy model weights)
+models/
+*.bin
+*.pt
+*.onnx
+
+# Local Data & Temp files
+data/
+*.pdf
+*.txt
+!requirements.txt
+!README.md
+
+# Logs and Debugging
+*.log
+.vscode/
+.idea/
