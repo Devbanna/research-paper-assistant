@@ -32,20 +32,20 @@ The system follows a modular pipeline designed for high precision and low latenc
 
 Follow these steps to set up the Research Assistant on your local machine.
 
-### 1️ Prerequisites
+### 1️ Prerequisites:
 - **Python 3.10 or 3.11** (Recommended for library stability)
 - **Conda** or **venv** for environment management
 
-### 2  Install Dependencies
+### 2   Install Dependencies:
     
     pip install -r requirements.txt
 
-### 3 Clone & Setup Environment
+### 3  Clone & Setup Environment:
     
     git clone [https://github.com/Devbanna/research-paper-assistant.git](https://github.com/Devbanna/research-paper-assistant.git)
     cd research-paper-assistant
 
-### 4  Run the Dashboard
+### 4   Run the Dashboard:
     
     streamlit run app/app.py
 
