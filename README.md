@@ -42,14 +42,7 @@ Follow these steps to set up the Research Assistant on your local machine.
 git clone [https://github.com/Devbanna/research-paper-assistant.git](https://github.com/Devbanna/research-paper-assistant.git)
 cd research-paper-assistant
 
-# Create a virtual environment
-python -m venv venv
 
-# Activate the environment
-# On macOS/Linux:
-source venv/bin/activate
-# On Windows:
-.\venv\Scripts\activate
 
 ## 🧠 Engineering Challenges & Human-Centric Solutions
 
