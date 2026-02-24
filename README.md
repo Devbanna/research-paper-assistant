@@ -78,7 +78,8 @@ Follow these steps to set up the Research Assistant on your local machine.
 ```text
 research-paper-assistant/
 ├── app/
-│   └── app.py              # Main Streamlit UI & RAG Logic
+│   └── app.py              # Main Streamlit UI & RAG Pipeline
 ├── images/                 # Architecture Diagrams & UI Screenshots
 ├── requirements.txt        # Dependency mapping for reproducibility
-└── README.md               # Engineering Journey
+├── .gitignore              # Environment & system file exclusions
+└── README.md               # Engineering Journey & Documentation
