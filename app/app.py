@@ -48,9 +48,10 @@ def load_models():
 
     # QA Pipeline for Chat
     qa = pipeline(
-        "question-answering",
-        model="deepset/minilm-uncased-squad2"
-    )
+    task="question-answering",
+    model="deepset/minilm-uncased-squad2",
+    tokenizer="deepset/minilm-uncased-squad2"
+)
 
     # DIRECT LOADING of T5 to bypass Python 3.13 Task Registry errors
     model_name = "t5-small"
